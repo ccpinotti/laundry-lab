@@ -10,6 +10,7 @@ var wrinkled_clothes = [
 /* YOUR CODE HERE */
 function iron(clothing_item){
   return clothing_item.toLowerCase();
+  //attempted a much longer for loop then realized we are streamlining now
 };
     // return ironed_clothing_item;
 
